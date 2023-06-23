@@ -1,4 +1,4 @@
-# RDP Project
+# Mini RDP
 ---------------
 # Warning
 
